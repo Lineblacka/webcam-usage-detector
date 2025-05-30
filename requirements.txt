@@ -1,0 +1,4 @@
+pygame
+pyttsx3
+psutil
+win10toast
